@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/typescript-quiz-app/static/js/main.747f3f9f.js",
+    "static/media/background.jpg": "/typescript-quiz-app/static/media/background.bd31cabfcfd2a7eee573.jpg",
+    "index.html": "/typescript-quiz-app/index.html",
+    "main.747f3f9f.js.map": "/typescript-quiz-app/static/js/main.747f3f9f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.747f3f9f.js"
+  ]
+}
